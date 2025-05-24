@@ -16,3 +16,8 @@ Install OpenCV via pip:
 
 ```bash
 pip install opencv-python
+
+## Sample Output
+Here's what the face detection output looks like :
+![Face Detection Output](Output.png)
+
