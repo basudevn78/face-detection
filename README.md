@@ -9,7 +9,7 @@ This is a simple Python script that uses OpenCV to perform real-time face detect
 
 ## Sample Output
 Here's what the face detection output looks like :
-![Face Detection Output]([Output.png](https://github.com/basudevn78/face-detection/blob/7dd527684f1055da8a3aa4546b461d8378e4edbf/Output.png))
+![Face Detection Output](Output.png)
 
 ## Requirements
 
