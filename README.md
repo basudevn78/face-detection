@@ -7,6 +7,10 @@ This is a simple Python script that uses OpenCV to perform real-time face detect
 - Draws bounding boxes around detected faces
 - Press **'a'** key to stop the camera
 
+## Sample Output
+Here's what the face detection output looks like :
+![Face Detection Output]([Output.png](https://github.com/basudevn78/face-detection/blob/7dd527684f1055da8a3aa4546b461d8378e4edbf/Output.png))
+
 ## Requirements
 
 - Python 3.x
@@ -16,8 +20,3 @@ Install OpenCV via pip:
 
 ```bash
 pip install opencv-python
-
-## Sample Output
-Here's what the face detection output looks like :
-![Face Detection Output](Output.png)
-
